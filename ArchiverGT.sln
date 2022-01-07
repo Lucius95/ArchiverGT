@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchiverGT", "ArchiverGT\ArchiverGT.csproj", "{1EBECBD1-836F-4B23-B353-C30353F48D46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchivingBoost", "ArchivingBoost\ArchivingBoost.csproj", "{1FBBE472-8490-4B57-A83A-5292E5D6987C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EBECBD1-836F-4B23-B353-C30353F48D46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EBECBD1-836F-4B23-B353-C30353F48D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EBECBD1-836F-4B23-B353-C30353F48D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EBECBD1-836F-4B23-B353-C30353F48D46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FBBE472-8490-4B57-A83A-5292E5D6987C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FBBE472-8490-4B57-A83A-5292E5D6987C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FBBE472-8490-4B57-A83A-5292E5D6987C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FBBE472-8490-4B57-A83A-5292E5D6987C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA5D616A-6444-4708-B169-609C7AEA31E0}
+	EndGlobalSection
+EndGlobal
